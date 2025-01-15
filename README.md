@@ -8,9 +8,6 @@ Hey I'm Lars, an aspiring **iOS developer** passionate about the Apple ecosystem
 - Deepening my skills in **iOS development** and **Xcode**
 - Starting projects
 
-## 📫 Contact
-- Email: LarsJaud7@outlook.de
-
 ## 🧠 My Skills
 
 ![C#](https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white)
