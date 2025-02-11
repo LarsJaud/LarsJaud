@@ -1,12 +1,14 @@
-Hey I'm Lars, an aspiring **iOS developer** passionate about the Apple ecosystem. 🍎
+Hey I'm Lars, an aspiring iOS & Web Developer passionate about crafting seamless experiences across both mobile and web platforms. 🍎💻
 
-## 👀 Interests
-- Learning and building with **Swift** and **SwiftUI**
-- Exploring **Apple technologies** like ARKit and Combine
+👀 Interests
+Building dynamic applications with Swift and SwiftUI for iOS
+Exploring innovative Apple technologies like ARKit and Combine
+Diving into web development with modern tools and frameworks
+🌱 Currently Learning
+Advancing my skills in iOS development and mastering Xcode
+Expanding my expertise in web development to create responsive, user-friendly sites
+Experimenting with projects that blend mobile and web experiences
 
-## 🌱 Currently Learning
-- Deepening my skills in **iOS development** and **Xcode**
-- Starting projects
 
 ## 🧠 My Skills
 
