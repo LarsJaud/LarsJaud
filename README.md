@@ -1,6 +1,6 @@
 # Hey, I'm Lars! 👋
 
-I'm an aspiring **iOS & Web Developer** passionate about crafting seamless experiences across both mobile and web platforms. Whether I'm diving into the world of Apple's ecosystem or exploring modern web technologies, I love building intuitive and innovative solutions.
+I'm an aspiring **iOS & Web Developer** passionate about crafting seamless experiences across both mobile and web platforms.
 
 ---
 
