@@ -1,22 +1,4 @@
-# Hey, I'm Lars! 👋
 
-I'm an aspiring **iOS & Web Developer** passionate about crafting seamless experiences across both mobile and web platforms.
-
----
-
-## 👀 Interests
-- **iOS Development:** Creating elegant apps using Swift and SwiftUI
-- **Apple Technologies:** Experimenting with ARKit, Combine, and more
-- **Web Development:** Building responsive, dynamic websites with modern frameworks
-
----
-
-## 🌱 Currently Learning
-- Enhancing my iOS skills with advanced Xcode techniques
-- Expanding my expertise in web development to deliver user-friendly, responsive designs
-- Experimenting with projects that merge mobile and web technologies
-
----
 
 
 ## 🧠 My Skills
